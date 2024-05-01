@@ -543,6 +543,16 @@ export interface BiographySliceDefaultPrimary {
    * - **Documentation**: https://prismic.io/docs/field#link-content-relationship
    */
   button_link: prismic.LinkField;
+
+  /**
+   * Button Link Pdf field in *Biography → Primary*
+   *
+   * - **Field Type**: Link to Media
+   * - **Placeholder**: *None*
+   * - **API ID Path**: biography.primary.button_link_pdf
+   * - **Documentation**: https://prismic.io/docs/field#link-content-relationship
+   */
+  button_link_pdf: prismic.LinkToMediaField;
 }
 
 /**

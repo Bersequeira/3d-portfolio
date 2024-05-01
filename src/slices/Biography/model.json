@@ -48,7 +48,16 @@
           "config": {
             "label": "Button Link",
             "placeholder": "",
+            "allowTargetBlank": true,
             "select": null
+          }
+        },
+        "button_link_pdf": {
+          "type": "Link",
+          "config": {
+            "label": "Button Link Pdf",
+            "placeholder": "",
+            "select": "media"
           }
         }
       },

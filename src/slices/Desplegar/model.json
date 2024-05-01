@@ -1,0 +1,34 @@
+{
+  "id": "desplegar",
+  "type": "SharedSlice",
+  "name": "Desplegar",
+  "description": "Desplegar",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "visit": {
+          "type": "Text",
+          "config": {
+            "label": "Visit",
+            "placeholder": ""
+          }
+        },
+        "visit_link": {
+          "type": "Link",
+          "config": {
+            "label": "Visit Link",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

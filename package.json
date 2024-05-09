@@ -1,5 +1,5 @@
 {
-  "name": "creative-portfolio-master",
+  "name": "creative-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "slicemachine": "start-slicemachine"
   },
   "dependencies": {
-    "@prismicio/client": "^7.4.1",
+    "@prismicio/client": "^7.5.0",
     "@prismicio/next": "^1.5.0",
     "@prismicio/react": "^2.7.4",
     "@react-three/drei": "^9.89.0",
